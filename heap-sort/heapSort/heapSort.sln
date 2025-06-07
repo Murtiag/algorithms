@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "heapSort", "heapSort.csproj", "{3E52D227-B342-46B8-B3A0-58C850AC2DC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "heapSortTest", "..\..\heapSortTest\heapSortTest.csproj", "{643652C6-DC90-447C-B4A9-7E19F961B442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E52D227-B342-46B8-B3A0-58C850AC2DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E52D227-B342-46B8-B3A0-58C850AC2DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E52D227-B342-46B8-B3A0-58C850AC2DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E52D227-B342-46B8-B3A0-58C850AC2DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{643652C6-DC90-447C-B4A9-7E19F961B442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643652C6-DC90-447C-B4A9-7E19F961B442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643652C6-DC90-447C-B4A9-7E19F961B442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643652C6-DC90-447C-B4A9-7E19F961B442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6F3D4E8-237E-40DB-AE25-7085188434E8}
+	EndGlobalSection
+EndGlobal
